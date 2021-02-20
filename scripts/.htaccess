@@ -1,3 +1,0 @@
-<Files "service-worker.js">
-Header set Service-Worker-allowed "/"
-</Files>
